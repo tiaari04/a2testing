@@ -1,0 +1,2 @@
+agent: NA
+Details: I knew I needed to use the waitlists talble because waitlisted books only appear there, borrowed because borrowed books only appear there and members since the name of the people who borrow books only appear there. Joining all 3 tables created a lot of duplicates so I needed distinct to remove the duplicates. Also it was important to specify that the email from waitlists, borrowings and members should match, otherwise it would give incorrect information. 
